@@ -2,41 +2,38 @@
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="dordonez.llamaaplicacion" >
 4
-5    <uses-sdk
-6        android:minSdkVersion="21"
-6-->/home/diego/git/Android/LlamaAplicacion/app/src/main/AndroidManifest.xml
-7        android:targetSdkVersion="29" />
-7-->/home/diego/git/Android/LlamaAplicacion/app/src/main/AndroidManifest.xml
-8
-9    <application
-9-->/home/diego/git/Android/LlamaAplicacion/app/src/main/AndroidManifest.xml:4:5-18:19
-10        android:allowBackup="true"
-10-->/home/diego/git/Android/LlamaAplicacion/app/src/main/AndroidManifest.xml:5:9-35
-11        android:debuggable="true"
-12        android:icon="@mipmap/ic_launcher"
-12-->/home/diego/git/Android/LlamaAplicacion/app/src/main/AndroidManifest.xml:6:9-43
-13        android:label="@string/app_name"
-13-->/home/diego/git/Android/LlamaAplicacion/app/src/main/AndroidManifest.xml:7:9-41
-14        android:supportsRtl="true"
-14-->/home/diego/git/Android/LlamaAplicacion/app/src/main/AndroidManifest.xml:8:9-35
-15        android:testOnly="true" >
-16        <activity
-16-->/home/diego/git/Android/LlamaAplicacion/app/src/main/AndroidManifest.xml:9:9-17:20
-17            android:name="dordonez.llamaaplicacion.MainActivity"
-17-->/home/diego/git/Android/LlamaAplicacion/app/src/main/AndroidManifest.xml:10:13-41
-18            android:label="@string/app_name" >
-18-->/home/diego/git/Android/LlamaAplicacion/app/src/main/AndroidManifest.xml:11:13-45
-19            <intent-filter>
-19-->/home/diego/git/Android/LlamaAplicacion/app/src/main/AndroidManifest.xml:12:13-16:29
-20                <action android:name="android.intent.action.MAIN" />
-20-->/home/diego/git/Android/LlamaAplicacion/app/src/main/AndroidManifest.xml:13:17-69
-20-->/home/diego/git/Android/LlamaAplicacion/app/src/main/AndroidManifest.xml:13:25-66
-21
-22                <category android:name="android.intent.category.LAUNCHER" />
-22-->/home/diego/git/Android/LlamaAplicacion/app/src/main/AndroidManifest.xml:15:17-77
-22-->/home/diego/git/Android/LlamaAplicacion/app/src/main/AndroidManifest.xml:15:27-74
-23            </intent-filter>
-24        </activity>
-25    </application>
-26
-27</manifest>
+5    <uses-sdk android:minSdkVersion="21" />
+5-->C:\Users\ordon\Github\Android\LlamaAplicacion\app\src\main\AndroidManifest.xml
+6
+7    <application
+7-->C:\Users\ordon\Github\Android\LlamaAplicacion\app\src\main\AndroidManifest.xml:4:5-18:19
+8        android:allowBackup="true"
+8-->C:\Users\ordon\Github\Android\LlamaAplicacion\app\src\main\AndroidManifest.xml:5:9-35
+9        android:debuggable="true"
+10        android:icon="@mipmap/ic_launcher"
+10-->C:\Users\ordon\Github\Android\LlamaAplicacion\app\src\main\AndroidManifest.xml:6:9-43
+11        android:label="@string/app_name"
+11-->C:\Users\ordon\Github\Android\LlamaAplicacion\app\src\main\AndroidManifest.xml:7:9-41
+12        android:supportsRtl="true"
+12-->C:\Users\ordon\Github\Android\LlamaAplicacion\app\src\main\AndroidManifest.xml:8:9-35
+13        android:testOnly="true" >
+14        <activity
+14-->C:\Users\ordon\Github\Android\LlamaAplicacion\app\src\main\AndroidManifest.xml:9:9-17:20
+15            android:name="dordonez.llamaaplicacion.MainActivity"
+15-->C:\Users\ordon\Github\Android\LlamaAplicacion\app\src\main\AndroidManifest.xml:10:13-41
+16            android:label="@string/app_name" >
+16-->C:\Users\ordon\Github\Android\LlamaAplicacion\app\src\main\AndroidManifest.xml:11:13-45
+17            <intent-filter>
+17-->C:\Users\ordon\Github\Android\LlamaAplicacion\app\src\main\AndroidManifest.xml:12:13-16:29
+18                <action android:name="android.intent.action.MAIN" />
+18-->C:\Users\ordon\Github\Android\LlamaAplicacion\app\src\main\AndroidManifest.xml:13:17-69
+18-->C:\Users\ordon\Github\Android\LlamaAplicacion\app\src\main\AndroidManifest.xml:13:25-66
+19
+20                <category android:name="android.intent.category.LAUNCHER" />
+20-->C:\Users\ordon\Github\Android\LlamaAplicacion\app\src\main\AndroidManifest.xml:15:17-77
+20-->C:\Users\ordon\Github\Android\LlamaAplicacion\app\src\main\AndroidManifest.xml:15:27-74
+21            </intent-filter>
+22        </activity>
+23    </application>
+24
+25</manifest>

@@ -2,9 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="dordonez.llamaaplicacion" >
 
-    <uses-sdk
-        android:minSdkVersion="21"
-        android:targetSdkVersion="29" />
+    <uses-sdk android:minSdkVersion="21" />
 
     <application
         android:allowBackup="true"

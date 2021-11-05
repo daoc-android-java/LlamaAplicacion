@@ -1,13 +1,11 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 29
-    buildToolsVersion "29.0.3"
+    compileSdkVersion 30
 
     defaultConfig {
         applicationId "dordonez.llamaaplicacion"
         minSdkVersion 21
-        targetSdkVersion 29
     }
 
     buildTypes {
